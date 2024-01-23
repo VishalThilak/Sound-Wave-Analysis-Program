@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="cpen221.soundwaves.SmokeTests" tests="17" skipped="0" failures="0" errors="0" timestamp="2024-01-19T06:13:48" hostname="VISHALTHILAK" time="0.162">
+  <properties/>
+  <testcase name="testAdd()" classname="cpen221.soundwaves.SmokeTests" time="0.025"/>
+  <testcase name="testCreateSquareWave()" classname="cpen221.soundwaves.SmokeTests" time="0.021"/>
+  <testcase name="testAdd_1()" classname="cpen221.soundwaves.SmokeTests" time="0.002"/>
+  <testcase name="testAdd_2()" classname="cpen221.soundwaves.SmokeTests" time="0.002"/>
+  <testcase name="testContains_2()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testContains_3()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testContains_4()" classname="cpen221.soundwaves.SmokeTests" time="0.003"/>
+  <testcase name="testCreateTrianglewave()" classname="cpen221.soundwaves.SmokeTests" time="0.066"/>
+  <testcase name="testContains()" classname="cpen221.soundwaves.SmokeTests" time="0.0"/>
+  <testcase name="testCreateSineWave()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testSimilarity()" classname="cpen221.soundwaves.SmokeTests" time="0.002"/>
+  <testcase name="testCreateWaveZero()" classname="cpen221.soundwaves.SmokeTests" time="0.0"/>
+  <testcase name="testsimiliarity_2()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testCreateWave()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testCreateWave_v2()" classname="cpen221.soundwaves.SmokeTests" time="0.002"/>
+  <testcase name="testAppend()" classname="cpen221.soundwaves.SmokeTests" time="0.001"/>
+  <testcase name="testCreateaddEcho()" classname="cpen221.soundwaves.SmokeTests" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
